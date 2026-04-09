@@ -1,4 +1,4 @@
-# Sistema de Control de Gastos Personales
+# Sistema de Control de Inventario
 
 Este proyecto es una aplicación de consola desarrollada en Python diseñada para la administración eficiente de productos. Permite registrar, listar, buscar, editar y eliminar artículos del inventario, asegurando un control preciso del stock y los precios.
 
