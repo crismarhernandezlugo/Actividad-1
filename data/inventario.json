@@ -1,0 +1,16 @@
+[
+    {
+        "id": 200,
+        "nombre": "cafe",
+        "categoria": "comida",
+        "precio": 1.8,
+        "stock": 30
+    },
+    {
+        "id": 102,
+        "nombre": "harina de trigo",
+        "categoria": "comida",
+        "precio": 2.0,
+        "stock": 60
+    }
+]
